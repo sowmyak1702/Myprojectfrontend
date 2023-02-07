@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sowmyak1702/Myprojectfrontend.git/static/css/main.7fbada94.css",
+    "main.js": "/sowmyak1702/Myprojectfrontend.git/static/js/main.a7e24130.js",
+    "static/js/787.7efd31bd.chunk.js": "/sowmyak1702/Myprojectfrontend.git/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/sowmyak1702/Myprojectfrontend.git/index.html",
+    "main.7fbada94.css.map": "/sowmyak1702/Myprojectfrontend.git/static/css/main.7fbada94.css.map",
+    "main.a7e24130.js.map": "/sowmyak1702/Myprojectfrontend.git/static/js/main.a7e24130.js.map",
+    "787.7efd31bd.chunk.js.map": "/sowmyak1702/Myprojectfrontend.git/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbada94.css",
+    "static/js/main.a7e24130.js"
+  ]
+}
